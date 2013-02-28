@@ -1,0 +1,76 @@
+.tabel {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 100%;
+    empty-cells: show;
+    -moz-border-radius:3px;
+    overflow:auto;
+}
+.tabel td {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    padding: 2px;
+    font-size: 12px;
+}
+.tabel td a{
+    color: #000099 bold;
+}
+.tabel td a:hover{
+    color: black;
+}
+.tabel th {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    padding: 1px;
+    background: #dfdcdc;
+    font-size: 11px;
+    color: #000000;
+    white-space:nowrap;
+}
+.tabel2 {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 30%;
+    empty-cells: show;
+    -moz-border-radius:3px;
+    overflow:auto;
+}
+.tabel2 td {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    padding: 2px;
+    font-size: 12px;
+}
+.tabel2 td a{
+    color: #000099 bold;
+}
+.tabel2 td a:hover{
+    color: black;
+}
+.tabel2 th {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    padding: 1px;
+    background: #dfdcdc;
+    font-size: 11px;
+    color: #000000;
+    white-space:nowrap;
+}
+.body-nota table{
+	font-family: "Courier New", Courier, monospace;
+	font-size:11px;
+	border-bottom:1px dashed #ccc;
+	padding-bottom:5px;
+}
+
+.titik{
+border-bottom:1px dashed #ccc;
+padding-bottom:5px;
+}
+
+.penutup table{
+	font-family: "Courier New", Courier, monospace;
+	font-size:11px;
+	border-bottom:1px dashed #ccc;
+	padding-bottom:5px;
+}
